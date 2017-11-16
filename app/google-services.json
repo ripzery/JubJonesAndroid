@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759549860884",
+    "firebase_url": "https://jubjones-omg.firebaseio.com",
+    "project_id": "jubjones-omg",
+    "storage_bucket": "jubjones-omg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759549860884:android:f87dc472724126b9",
+        "android_client_info": {
+          "package_name": "com.ripzery.jubjones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759549860884-0ug6p3s0ugfk5iackj3hnb8fnnp1l671.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnk31AUN0uqSoT5qLElSKYr4TBww4foU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

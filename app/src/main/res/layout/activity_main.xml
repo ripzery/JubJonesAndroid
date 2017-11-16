@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.ripzery.jubjones.MainActivity">
+
+    <android.support.v4.widget.Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btnCapture"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:text="Capture"
+        android:theme="@style/AppTheme.ButtonBlue" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/btnSleep"
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:text="Sleep"
+        android:theme="@style/AppTheme.ButtonGreen" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
